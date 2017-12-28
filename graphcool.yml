@@ -1,0 +1,5 @@
+service: myapp
+
+datamodel: database/datamodel.graphql
+
+secret: mysecret123
